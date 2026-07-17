@@ -37,10 +37,10 @@ Actualmente me desempeño en áreas de Business Intelligence, desarrollando plat
 
 ### Inteligencia Artificial
 
+* Automatización con IA
 * Machine Learning
 * IA Generativa
 * Agentes Inteligentes
-* Automatización con IA
 
 ### Cloud
 
