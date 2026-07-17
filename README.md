@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan David Restrepo 👋
+# ¡Hola! Mi nombre es Juan David Restrepo 👋
 
 ### Ingeniero de Datos | Inteligencia Artificial y Automatización | Business Intelligence
 
