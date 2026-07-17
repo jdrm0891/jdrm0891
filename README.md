@@ -11,10 +11,10 @@ Actualmente me desempeño en áreas de Business Intelligence, desarrollando plat
 ## Actualmente trabajando en
 
 * Plataforma de Inteligencia Comercial (Microsoft Fabric + Power BI).
+* Arquitecturas de datos y analítica avanzada.
 * Automatización de procesos con Python.
 * Desarrollo de Agentes Inteligentes.
 * Inteligencia Artificial aplicada al negocio.
-* Arquitecturas de datos y analítica avanzada.
 
 ---
 
